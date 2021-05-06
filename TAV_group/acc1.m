@@ -1,7 +1,7 @@
 clear all
 close all
 % mode 0 is threshold 
-mode = 0 
+mode = 2 
 % mode = 1 is min(sc,vc)
 % mode = 2 is hysteresis
 x_H0 = 0
